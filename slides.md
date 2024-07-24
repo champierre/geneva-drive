@@ -231,6 +231,15 @@ Tinkercadの「+ 作成」ボタンをクリックし、コードブロックを
 
 ---
 
+# 3Dモデルでプリント
+
+STLファイルとしてエクスポートすれば、3Dプリンターで出力することができます。
+
+<iframe style="margin: 0 auto;" width="203" height="362" src="https://www.youtube.com/embed/Ud-0BkLBQJY" title="geneva drive(4 slots)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+---
+
 # Tinkercad のリンク
 
 紹介したTinkercadコードブロックのコードは以下のリンク先で公開しているので、ご自由にお使いください。
