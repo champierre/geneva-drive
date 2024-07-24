@@ -6,11 +6,11 @@
 
 このスライドでは、ジェネバ機構の3Dモデルを、Tinkercadのコードブロックを使い、プログラミングしてつくる方法を紹介しています。
 
-![geneva-drive-demo-short](https://github.com/user-attachments/assets/3d9b0731-378f-4c9b-9050-9050e5d3bc8b)
+![geneva-drive-demo-short](https://champierre.github.io/geneva-drive/geneva_drive_demo_short.gif)
 
 STLファイルとしてエクスポートすれば、3Dプリンターで出力することができます。
 
-<a href="https://youtube.com/shorts/Ud-0BkLBQJY"><img src="https://champierre.github.io/geneva-drive/geneva_drive.jpg"></a>
+<a href="https://youtube.com/shorts/Ud-0BkLBQJY"><img src="https://champierre.github.io/geneva-drive/geneva_drive.jpg" style="width: 300px;"></a>
 
 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja"><img src="https://champierre.github.io/geneva-drive/by-sa.webp" style="width: 10%"></a>
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)にしたがって公開します。

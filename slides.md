@@ -25,7 +25,7 @@
 ジェネバ機構の3Dモデルを、Tinkercadのコードブロックを使い、プログラミングしてつくってみましょう。
 
 <div class="flex justify-center">
-　　<img src="/geneva-drive-demo.gif" style="width: 80%">
+　　<img src="/geneva_drive_demo.gif" style="width: 80%">
 </div>
 
 ---
@@ -35,7 +35,7 @@ layout: two-cols
 # ジェネバ機構の各部品
 
 <div class="flex justify-center">
-　　<img src="/geneva-drive-overview.png">
+　　<img src="/geneva_drive_overview.png">
 </div>
 
 
