@@ -4,7 +4,7 @@
 
 ジェネバ機構は、連続で回転する運動を、少しずつ断続的に回転する運動に変えることができる機構です。
 
-このスライドでは、ジェネバ機構の3Dモデルを、Tinkercadのコードブロックを使い、プログラミングしてつくる方法を紹介しています。
+上記リンク先のスライドでは、ジェネバ機構の3Dモデルを、Tinkercadのコードブロックを使い、プログラミングしてつくる方法を紹介しています。
 
 ![geneva-drive-demo-short](https://champierre.github.io/geneva-drive/geneva_drive_demo_short.gif)
 
