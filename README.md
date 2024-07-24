@@ -10,7 +10,7 @@
 
 STLファイルとしてエクスポートすれば、3Dプリンターで出力することができます。
 
-<iframe style="margin: 0 auto;" width="203" height="362" src="https://www.youtube.com/embed/Ud-0BkLBQJY" title="geneva drive(4 slots)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://youtube.com/shorts/Ud-0BkLBQJY"><img src="https://champierre.github.io/geneva-drive/geneva_drive.jpg"></a>
 
 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja"><img src="https://champierre.github.io/geneva-drive/by-sa.webp" style="width: 10%"></a>
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)にしたがって公開します。
